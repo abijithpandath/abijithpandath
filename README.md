@@ -37,13 +37,14 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />]    
+  (https://www.linkedin.com/in/abijithpandath/)
 </div>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://cdn.openart.ai/uploads/image_qfftcOqF_1723554147627_raw.jpg"  />
+  <img height="200" src="https://m.media-amazon.com/images/I/61cwkbsnmVL._SL1360_.jpg"  />
 </div>
 
 ###
