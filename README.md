@@ -41,7 +41,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </div>
 
-###
+### Find me on 
 
 <div align="center">
   <img height="200" src="https://m.media-amazon.com/images/I/61cwkbsnmVL._SL1360_.jpg"  />
