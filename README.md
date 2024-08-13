@@ -40,7 +40,10 @@
   <a href="https://www.linkedin.com/in/abijithpandath/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </div>
-
+<div align="left">
+  <a href="https://www.instagram.com/abxxiii__/?hl=en" target="_blank">
+  <img src="https://cdn.pixabay.com/photo/2021/06/15/12/14/instagram-6338393_1280.png" width="52" height="40" alt="instagram logo"  />
+</div>
 ### 
 <div align="center">
   <img height="200" src="https://m.media-amazon.com/images/I/61cwkbsnmVL._SL1360_.jpg"  />
